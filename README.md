@@ -1,0 +1,2 @@
+# powershellbasics
+basic powershell
